@@ -23,10 +23,10 @@ I'm Muhammet UÇAR, a passionate software developer based in Antalya, Türkiye. 
 <!-- 🚀 I’m interested in advanced **React Native** and **NestJs** -->
 <!-- 👯 I’m looking to collaborate on **open-source projects** and innovative mobile applications.-->
 <!-- 🤔 I’m looking for help with **IoT projects** and **cross-platform mobile development**.-->
-- 💬 Ask me about **Python **.
+- 💬 Ask me about **Python
 - 📫 How to reach me: 
   - Email: ucaaar07@gmail.com
-  - LinkedIn: [Muhammet UÇAR](https://www.linkedin.com/in/muhammet-u%C3%A7ar/)
+  - LinkedIn: [Muhammet UÇAR](https://www.linkedin.com/in/muhammet-ucar/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love hiking in my free time.
 
