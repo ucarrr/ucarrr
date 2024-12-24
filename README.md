@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 I'm Muhammet UÇAR, a passionate software developer based in Antalya, Türkiye. I love exploring new technologies and continuously improving my skills. Here you can find my projects and contributions.
 
 - 🔭 I’m currently working on **Full Stack Development** at PlusOneSmart, focusing on Odoo platform customizations using Python (Django).
-- 🌱 I’m currently learning **Java Spring Boot**
-- 🚀 I’m interested in advanced **React Native** and **NestJs**
-- 👯 I’m looking to collaborate on **open-source projects** and innovative mobile applications.
-- 🤔 I’m looking for help with **IoT projects** and **cross-platform mobile development**.
-- 💬 Ask me about **Python, React Native, Java, and IoT**.
+- 🌱 I’m currently learning **.Net Core**
+<!-- 🚀 I’m interested in advanced **React Native** and **NestJs** -->
+<!-- 👯 I’m looking to collaborate on **open-source projects** and innovative mobile applications.-->
+<!-- 🤔 I’m looking for help with **IoT projects** and **cross-platform mobile development**.-->
+- 💬 Ask me about **Python **.
 - 📫 How to reach me: 
   - Email: ucaaar07@gmail.com
   - LinkedIn: [Muhammet UÇAR](https://www.linkedin.com/in/muhammet-u%C3%A7ar/)
