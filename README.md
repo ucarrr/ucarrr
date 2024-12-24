@@ -36,17 +36,15 @@ I'm Muhammet UÇAR, a passionate software developer based in Antalya, Türkiye. 
 - HTML
 - CSS
 - JavaScript
-- React Native
 - TypeScript
-- Java (Mobile)
+
 
 #### Backend Development
 - Django
 - MVC
 - Python
-- Java
-- NestJs
-- C#
+ 
+ 
 
 #### Databases
 - Firebase
